@@ -72,6 +72,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 For any questions or inquiries, please contact [vethantahan] at [vethanathanvk@gmail.com].
 
----
-
-Feel free to customize the README further based on your project's specific details and requirements.
